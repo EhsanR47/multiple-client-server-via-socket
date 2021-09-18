@@ -1,0 +1,9 @@
+{
+          "command_type": "os",
+          "command_name": "ls",
+          "parameters": [
+                    "/home",
+                    "-h",
+                    "-l"
+          ]
+}
